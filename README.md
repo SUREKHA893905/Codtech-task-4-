@@ -1,4 +1,18 @@
-Overview of Machine Learning Model Implementation
+Name: SUREKHA 
+
+Domain : Python
+
+Mentor: Neela Shantu
+
+Duration: Dec 24 - jan 25
+
+ID: CT6WDS2789
+
+
+
+
+
+***Overview of Machine Learning Model Implementation***
 
 Machine learning involves creating algorithms that enable computers to learn from and make predictions or decisions based on data. Implementing a machine learning model typically involves several key steps:
 
